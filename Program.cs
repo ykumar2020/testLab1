@@ -15,7 +15,7 @@ string[] names; // can reference any size array of strings
 names = new string[4];
  
 // storing items at index positions
-names[0] = "Kate";
+names[0] = "Kate"; 
 names[1] = "Jack";
 names[2] = "Rebecca";
 names[3] = "Tom";
