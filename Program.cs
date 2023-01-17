@@ -19,7 +19,7 @@ names[0] = "Kate";
 names[1] = "Jack";
 names[2] = "Rebecca";
 names[3] = "Tom";
-
+  
 string[] names2 = new[] { "Kate", "Jack", "Rebecca", "Tom" };
 
 // looping through the names
