@@ -6,7 +6,7 @@ Console.WriteLine("Hello, Dr. Kumar!");
 Console.WriteLine("Version: {0}", Environment.Version.ToString());
 string text = System.IO.File.ReadAllText("text.txt");
 Console.WriteLine(text);
-
+  
 Console.WriteLine("Hello, Dr. Kumar!");
 Console.WriteLine("Version: {0}", Environment.Version.ToString());
 string[] names; // can reference any size array of strings
